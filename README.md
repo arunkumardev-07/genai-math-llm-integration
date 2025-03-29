@@ -78,7 +78,8 @@ print("Result:", result)
 
 ```
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/1cc753b1-edd5-485a-ad5f-04a7ddf67e78)
+![Screenshot 2025-03-29 113524](https://github.com/user-attachments/assets/a387fd53-0318-4f77-bf2f-58d757c614bd)
+
 
 ### RESULT:
 Hence,the python program to design and implement a Python function for calculating the volume of a cylinder,
